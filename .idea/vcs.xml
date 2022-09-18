@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Factorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Massiv Random" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Massiv Sum min max" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Massiv index max min" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Massiv inversion" vcs="Git" />
@@ -11,6 +12,5 @@
     <mapping directory="$PROJECT_DIR$/Massiv summ all" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sanya" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/untitled" vcs="Git" />
   </component>
 </project>
