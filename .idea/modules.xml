@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Massiv Sum min max/Massiv Sum min max.iml" filepath="$PROJECT_DIR$/Massiv Sum min max/Massiv Sum min max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Massiv index max min/Massiv index max min.iml" filepath="$PROJECT_DIR$/Massiv index max min/Massiv index max min.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Massiv inversion/Massiv inversion.iml" filepath="$PROJECT_DIR$/Massiv inversion/Massiv inversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Massiv non parity summa/Massiv non parity summa.iml" filepath="$PROJECT_DIR$/Massiv non parity summa/Massiv non parity summa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Massiv sclr/Massiv sclr.iml" filepath="$PROJECT_DIR$/Massiv sclr/Massiv sclr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Massiv summ all/Massiv summ all.iml" filepath="$PROJECT_DIR$/Massiv summ all/Massiv summ all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sanya/sanya.iml" filepath="$PROJECT_DIR$/sanya/sanya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
