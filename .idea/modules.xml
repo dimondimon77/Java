@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Massiv Random/Massiv Random.iml" filepath="$PROJECT_DIR$/Massiv Random/Massiv Random.iml" />
       <module fileurl="file://$PROJECT_DIR$/Massiv Sum min max/Massiv Sum min max.iml" filepath="$PROJECT_DIR$/Massiv Sum min max/Massiv Sum min max.iml" />
       <module fileurl="file://$PROJECT_DIR$/Massiv index max min/Massiv index max min.iml" filepath="$PROJECT_DIR$/Massiv index max min/Massiv index max min.iml" />
       <module fileurl="file://$PROJECT_DIR$/Massiv inversion/Massiv inversion.iml" filepath="$PROJECT_DIR$/Massiv inversion/Massiv inversion.iml" />
